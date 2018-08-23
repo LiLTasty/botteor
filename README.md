@@ -1,0 +1,2 @@
+# botteor
+Bot for TEOR
